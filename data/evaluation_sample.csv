@@ -1,0 +1,232 @@
+ticket_id,category,channel,customer_message,baseline_signal,manual_signal
+TK-242922,Audio Quality,chat,"namaste, bought orbit mini around 12 may from amazon.  there is a frying sound in the background of every song. i tried wired mode. how do i get this fixed? regards aarav",False,0
+TK-252050,Product Enquiry,email,"Hello, Bought Nexa 2 around April 11 from vireo.in. Before I buy - will this talk to a 2019 Samsung. Not what I expected from Vireo. Please advise.",False,1
+TK-252478,Connectivity,voice,[IVR transcript] honestly regretting this purchase.  bought pulse2 around 14 mar from vireo.in. random disconnects during calls. i already reset both devices. this is the last time i buy from you.,False,1
+TK-243445,Delivery & Shipping,chat,"Writing again because the issue is back., I ordered the Orbit smart speaker and got something else, i want a replacement",True,0
+TK-241849,Returns & Refunds,email,"Hi Vireo support, Bought Nexa 2 around 04-04-2025 from vireo.in.  NOBODY CAME FOR THE PICKUP. I rescheduled pickup twice. Nothing changed. Pathetic experience honestly. Please resolve asap. Regards,",True,1
+TK-248410,Billing & Payments,chat,"helo
+still waiting for my refund
+my pulse 2
+pls reply",True,1
+TK-254387,Returns & Refunds,social,"Hey, I bought the Pulse 2 earbuds on 11/06.  You picked up the item 11 days ago and my money hasn't come back. I checked bank. Nothing changed. Honestly regretting this purchase. What do I do now? Please revert Rohan Joshi",True,0
+TK-242035,Charging & Battery,email,Honestly regretting this purchase. Ordered Pulse earbuds recently. left side not chargig in teh case. I already cleeaned the contacts with a cloth. Fix this or I am posting on twitter.,False,0
+TK-249772,Delivery & Shipping,email,"Deear team, Ordered pulse 1 10 dyas ago. Paid on 01 Dec, still waiting for something to sohw up. I checked with neighbours. Nothing changed. How do I get thiis fixed?",True,1
+TK-240667,Billing & Payments,chat,"Product: teh strata 3
+Order: VR897638
+Purchased: 14-02-2025
+Issue: refund was promised 16 days ago & nothing
+Tried: emailed twice
+Expected: resolution",True,1
+TK-251578,Billing & Payments,chat,"Hey, This is regarding the Pulse 2 earbuds. Coupon code not working. I tried in caps. Nothing changed. How do I get this fixed? Thanks & regards",True,1
+TK-243627,Warranty & Repair,email,"Raised this 3 weeks ago and was told it was resolved. Strata 2 purchased around Diwali, order VR888823. I sent the unit in 17 days ago and have heard nothing.
+I emailed twice.
+Please advise.
+Regards Harsh",True,1       
+TK-244706,Returns & Refunds,chat,"Product: the GaN charger
+Order: VR880906
+Purchased: 19/07
+Issue: refund was promised 16 days ago and nothing
+Tried: checked bank
+Expected: callback",False,0
+TK-250391,Delivery & Shipping,chat,"paid on 07-02-2026, still waiting for somthing to show up.  please resolve asap",True,1
+TK-242703,Other,chat,"my company accounts team is asking for the tax bill
+vr906084
+what do i do now?",False,0
+TK-252121,Connectivity,voice,"[IVR transcript] hi, my earlier ticket got closed without a fix. ordered my pulse around diwali. cannot pair my pulse with my laptop. i restarted the phone. nothing changed. pathetic experience honestly. need this sorted this week. thank you, imran trivedi",True,0
+TK-250665,Delivery & Shipping,voice,[IVR transcript] hi my order has not been delivered yet the charging case i ordered vr883893,False,0
+TK-249029,App & Firmware,voice,[IVR transcript] pathetic experience honestly. this is regarding my strata 3 headphones. firmware update stuck for 2 hours. i already keppt phone nearby. fix this or i am posting on twitter.,False,0
+TK-249354,Returns & Refunds,email,"Hi Vireo support,
+Same problem again. Order VR908098 (the Pulse buds). Return pickup has not happened.
+I rescheduled pickup twice. Nothing changed.
+What do I do now?
+Thank u,",True,1
+TK-245644,Delivery & Shipping,chat,"bought my nexa 2 watch around 02-10-2025 from vireo.in. my order has not been delivered yet.
+i checked with neighbours. nothing changed.
+what do i do now?
+awaiting response siddharth",True,1
+TK-247715,Delivery & Shipping,chat,product arrived damaged,False,0
+TK-248967,Charging & Battery,voice,"the L bud is basically a paperweight now, R is fine. what do i do now?",False,0
+TK-242714,Charging & Battery,email,"Hi Vireo support, Agan the same thing.  This is regarding the Pules buds. Battrey life has dropped to almost nothing. I turned off always-on display. Waiting for your reply.",True,1
+TK-246185,Connectivity,chat,"Hi team,
+Bought pulse 1 around 03 Jul frmo Amazon. Cannot pair pulse 1 with my laptop.
+I tried on another phone. Nothing changed.
+What do I do now?
+Regards Simran",True,1
+TK-244165,Delivery & Shipping,email,"Dear Sir/Madam,
+
+I am writing with reference to my oder of pulse 2 buds placed on 25/08. I ordered pullse 2 bdus and got something else. I have checked teh invoice. I request you to provide a resolution within 3 working days.
+
+Sincerely,
+Reyansh Pereira",False,0
+TK-241282,Delivery & Shipping,email,"hi viero support,
+i bought my strata 3 headphones on 18/03. paid on 18/03, still waiting for something to shhow up.
+i checked with neighbours. nothing changed.
+please advise.
+thanks",True,1
+TK-241112,Returns & Refunds,chat,"Dear team, I bought my Pulse on February 03. Still waiting for my refund. I emailed twice. Honestly regretting this purchase. Kindly look into it. Awaiting response,",True,1
+TK-249902,App & Firmware,email,"firmware update is stuck at 99%, VR903090, i want my money back",False,0
+TK-245418,Billing & Payments,chat,"got my pulse 2 from vireo.in recently.  need gst invoice for my order. i tried different browser. nothing changed. waiting for your reply. please revert, manish",True,1
+TK-240924,Charging & Battery,chat,"BATTERY DRAINS VERY FAST, BARELY LASTS 2 HOURS",False,0
+TK-253033,Connectivity,email,"hello vireo, got orbit mini from vireo.in 3 weeks back. pairing is not working. i restarted the phone. nothing changed. kindly look into it.",True,1
+TK-249959,App & Firmware,chat,"Namaste, Bought Pulse2 around 03-12-2025 from vireo.in. Firmware update is stuck at 67%. I restarted the app. Nothing changed. Waiting for your reply. Thanks in advance Suresh",True,1
+TK-249935,Warranty & Repair,chat,"helo
+no update on my repair",False,0
+TK-244029,Billing & Payments,chat,"got the pulse 2 earbuds from flipkart last week.  refund was promised 5 days ago and nothing. i emailed twice. how do i get this fixed? awaiting response,",True,1
+TK-245060,Delivery & Shipping,email,"hey,
+ordered the charging case i ordered recently. package not delivered even affter 19 days.
+i caled the courier.
+patheic experience honestly.
+please call me on my registered number.
+thanks in advance ayaan",False,0
+TK-244774,Audio Quality,chat,"hello vireo, orbit mini purchased recently, order vr909955.  audio keeps disconnecting every few minutes. i truned off wifi. nothing changed. pelase advise. thanks & regards, rajat sidiqui",True,1
+TK-250498,Charging & Battery,chat,"case does not charge, no light at all - VR906955",False,0
+TK-244448,App & Firmware,chat,"Namaste, Order VR907838 (Strata 3). Battery backup is terrible now. I fully charged and discharged twice. Please call me on my registered number. Awaiting response",False,0
+TK-246413,App & Firmware,email,"Hi Viro support, This is regarding the strata 3.  It's shoing a spinning circle for hours. I kept it in the case. Nothing changed. Can somene fix this?",True,1
+TK-254169,Connectivity,chat,"bought the neckband around 02 may from vireo.in. keeps losing my phone if i walk to the other room.
+waiting for your reply.
+regards krishna",True,1
+TK-244833,Charging & Battery,email,"hi, got nexa fit from amazon 3 weeks back. goes from full to empty during one commute. i fuly charged and discharged twice. nothing changed. i want my money back. thnks nehha",True,1
+TK-249854,Billing & Payments,social,"Hi team, Bought my Pulse 2 around 27 Jan from vireo.in. Still waiting for my refund. I checked bank. Not what I expected from Vireo. Need this sorted this week.",True,1
+TK-241933,Delivery & Shipping,chat,"Hi there,
+I bought my Nexa on 29-04-2025.  My order has not been delivered yet.
+I called the courier. Nothing changed.
+Waiting for your reply.
+Regards,",True,1
+TK-247501,Product Enquiry,chat,"hii
+my dad has an old nokia, will the watch app run
+orbit mini VR884918
+kindly do the needful",False,0
+TK-243866,Account & Login,chat,"Hi team,
+orbit mini purchased last week, order VR888633.  THE INVOICE PDF LINK GIVES A 404.
+I TRIED DIFFERENT BROWSER. Nothing changed.
+Please help.
+Thanks in advance, Vikram Sandhu",True,1
+TK-248472,Other,chat,"Hello, Got the Pulse 2 earbuds from vireo.in last month.  Please share invoice w/ GST number. I tried different browser. Nothing changed. Please help. Thank u, Ankit",True,1
+TK-243053,Billing & Payments,email,"Hi, Got the AirLite buuds from vireo.in 2 weeks ago. Discount was not applied at checkout. Please call me on my registered number. Please revert Saanvvi Patel",False,0
+TK-241526,App & Firmware,chat,"This is regarding my Nexa 2 watch. Firmware update is stuck at 40%. I restarted the app. Nothing changed. Please advise. Rgds, Aishwarya",True,1
+TK-252664,Other,email,"Hello, This is regarding your charger. Cancel order. I tried cancel button, greyed out. Nothnig changed. Pathetic experience honestly. Please resolve asap.",False,0
+TK-240684,Billing & Payments,email,"dear team, i bought 65w charger on 10-02-2025. card charged two times. i checked with bank. nothing changed. this is very disappointing. please advise.",True,1
+TK-246240,Returns & Refunds,email,"Dear Sir/Madam,
+
+I am wriing wiht refference to my ordeer of the Plse 2 earbuds placed on 01-10-2025. Refnd not received yet. I have emailed twice. I request you to kindly arrange a replacement.
+
+Sincerely,
+Lakshmi Jadhav",True,1  
+TK-252649,Connectivity,chat,"Writing again because the issue is back.
+Product: the Nexa 2
+Order: VR899176
+Purchased: 09/09
+Issue: my phone just doesn't see it in the list anymore
+Tried: tried on another phone
+Expected: replacement",True,1
+TK-243592,Other,email,"hey, ordered airlite in july. cancel order. waiting for your reply.",True,1
+TK-254124,Warranty & Repair,chat,"Hey, Ordered my Pulse recently.  CLAIM NUMBER RMA35678, ANYONE ALIVE THERE?. I emailed twice. Nothing changed. I want a replacement. Thanks & regards,",True,1
+TK-251852,Warranty & Repair,chat,"Hi team, Got my Nexa 2 watch from vireo.in a month ago.  Wtach not responding to touch. I restarted. Waiting for your reply. AWIATING RESPONSE,",True,1
+TK-254026,Product Enquiry,email,"dear sir/madam, got orbit mini from flipkart last month. discount was not applied at checkout. i tried in caps. please advise. rgds, ishaan sheikh",False,0
+TK-249675,Other,chat,"Product: Strata 3
+Order: VR890662
+Purchased: 27 Dec
+Issue: service centre took it, now silence
+Tried: emailed twice
+Expected: replacement",True,1
+TK-250267,Connectivity,chat,"hey
+my phone just doesn't see it in the list anymore
+my orbit
+help",False,0
+TK-245639,Returns & Refunds,chat,"dear sir/madam, this is regarding my pulse 2. still waiting for my refund. i checked bank. what do i do now? thank you, aadhya",True,1
+TK-247401,Charging & Battery,email,"Dear Sir/Madam,
+
+I am writing with reference to my order of AiLite (VR883933) placed on 21 Sep. Battery drains vry fast, barely lasts 2 hours. I have updated the app. I request you to look into this matter at the earliest.
+
+Sincerely,
+Aishwarya Chauhan
+Guwahati",False,0
+TK-240884,Audio Quality,voice,[IVR transcript] hi static noise whne playing music the orbit smart speaker VR880322,False,0
+TK-252434,Audio Quality,chat,"hey
+a hiss that wasn't there when i bought it
+??",False,0
+TK-251573,Audio Quality,email,"I hear music in one ear only, other is mute",False,0
+TK-250044,Returns & Refunds,chat,"Dear Sir/Madam, Bought my Strata 2 headphones around February 03 from vireo.in. Still waiting for my refund. Please advise.",True,1
+TK-252428,Charging & Battery,social,ONLY THE RIGHT ONE LIGHTS UP WHEN I PUT THEM IN THE CASE,False,0
+TK-240190,Product Enquiry,email,"my dad has an old Nokia, will the watch app run, please advise",False,0
+TK-240207,Delivery & Shipping,chat,"hey
+paid on 19/01, still waiting for something to show up
+hello??",True,1
+TK-254187,Delivery & Shipping,chat,"bought the nexa 2 around 28 may from vireo.in. order not delivered, tracking not updating. kindly look into it. rgds,",False,0
+TK-246840,Delivery & Shipping,email,"hey
+order status stuck on shipped since 09-11-2025",False,0
+TK-246589,Charging & Battery,email,"left bud won't charge even after keeping it in the case overnight, need this sorted this week",False,0
+TK-252638,Warranty & Repair,email,"Hi Vireo support, Bought my Strata 3 headphones around 30-03-2026 from vireo.in. Warranty claim pending for 9 days. What do I do now?",False,0
+TK-243596,Returns & Refunds,chat,"To the Vireo Customer Care Team,
+
+Still not fixed after your last 'resolution'. I am writing w/ reference to my order of Nexa watch placed on 06-07-2025. Return pickup has not happened. I have called courier. I request you to process a refund to my original payment method.
+
+Yours faithfully,
+Aarav Mittal",True,1
+TK-241244,Connectivity,chat,pairing is not working,False,0
+TK-253237,Delivery & Shipping,chat,"Hey, Thsi is regarding the charging case I ordered. My oder has not been delivered yet. I checked the tracking pge daily. Nothing changed. Please advise. Thanks & regards",True,1
+TK-254333,Delivery & Shipping,chat,"helo
+ordered black, got white, not what i asked for",False,0
+TK-252536,Billing & Payments,chat,refund was promised 9 days ago and nothing.  VR883603,False,0
+TK-245797,Delivery & Shipping,chat,opened the parcel and it is a completely different thing. waiting for ur reply,False,0
+TK-244296,Connectivity,chat,"hi team, ordered pulse 1 around diwali.  not pairing with my phone. i restarted the phone. nothing changed. please resolve asap. rgds ramesh patil",True,1
+TK-251865,Billing & Payments,email,I am losing patience. This is regarding pulse 2 buds. my bank says Rs 2499 went to you but ur site says I have no orders. I already tried logging out & in. Refund. Now.,False,0
+TK-249611,Other,email,"hi team, bought replacement case around 14-01-2026 from amazon. cancel order. please call me on my reegistered number. regards,",False,0
+TK-248864,Audio Quality,chat,"Product: airlite earbuds
+Order: VR901158
+Purchased: 10-08-2025
+Issue: right earbud completely silent
+Tried: reset the buds
+Expected: callback",False,0         
+TK-242146,Other,chat,"To the Vireo Customer Care Team,
+
+I am writing with reference to my ordre of the GaN charger placed on 05-05-2025.  Your ad saaid 20% off and the cart says full price. I have tried on app and website. I request you to process a refund to my original payment method.
+
+Sincerely,
+Simran Siddiqui",False,0
+TK-248360,Connectivity,chat,"DEAR SIR/MADAM,
+
+I AM WRITING WITH REFERENCE TO MY ORDER OF THE AIRLITE BUDS (VR898712) PLACED ON 23-09-2025. Pairing is not working. I have forgot the device and tried again. I request u to process a refund to my original payment method.
+
+Regards,
+Tenzin Sen
+Thiruvanantapuram",True,1
+TK-246409,Delivery & Shipping,chat,"hello vireo, bought the obit sart speaker around october 25 from amazon. my order has not been delivered yet. i checkeed the tracking page daily. nothing changed. kindly look into it. regards",True,1
+TK-254813,Delivery & Shipping,chat,"hi, pulse 2 purchased 2 weeks ago, order vr903844. the courier marked it delivered but nobody in my house got anything. i checked with neighbours. nothing changed. can someone fix this? thanks & regards, bhavna",True,1
+TK-241152,Product Enquiry,chat,before I buy - will this talk to a 2019 Samsung. VR901451. i want my money back,False,0
+TK-240776,Returns & Refunds,social,"Dear Sir/Madam,
+
+I am writing with reference to my order of my Pulse (VR890211) placed on 21-12-2024. You picked up the item 15 days ago and my money hasn't come back. I have emailed twice. I request you to process a refund to my original payment method.
+
+Sincerely,
+Kavya Bose",True,1
+TK-253082,Audio Quality,email,"hello, this is regarding the airlite buds. mic not working on calls. i tried different apps. nothing changed. i have been a loyal customer and this is how you treat me. please resolve asap.",True,1
+TK-253549,Other,email,"hello vireo, once more, smae complaint. ordered my pulse 2 10 days ago. payment was deducted but no order was created. i chceked bnk statement. nothing changed. waitnig for your reply. awaiting response, aadhya",True,1
+TK-245410,Connectivity,chat,i have been a loyal customer and this is how you treat me. bought pulse 2 around 17 sep from amazon. the pairing light blinks but nothing ever shows up on my oneplus. i already tried on another phone. escalate this to someone senior.,False,0
+TK-246527,Connectivity,email,"hi sir
+cannot pair the pulse buds with my laptop
+recently se
+the pulse buds",False,0
+TK-245707,App & Firmware,email,this is regarding pulse 2. not receiving otp to login. i want my mony back.,False,0
+TK-250872,Billing & Payments,voice,"[IVR transcript] pid via UPI, amount deducted, no order confirmation",False,0
+TK-243619,Warranty & Repair,chat,"to the vireo customer care team,
+
+i am writing with reference to my order of the nexa 2 placed on june 09. the little metal pin fell out and now it won't stay on my wrist. i have tried to fix pin. i request you to look into this matter at the earliest.
+
+yours faithfully,
+sai pereira
+chennai",False,0
+TK-242860,Delivery & Shipping,email,"Hello Vireo, Ordered AirLite 2 weeks ago. I haven't received my order. I checked the tracking page daily. Nothing changed. Please advise. Thanks & regards Isha Nair",True,1
+TK-251780,Product Enquiry,email,"hello ji
+my dad has an old nokia, will the wathc app run
+bahut pareshan hu
+my nexa 2 watch",False,0
+TK-244747,App & Firmware,email,"Dear team,
+This is regarding airlite earbuds.  The progress bar has not moved since morning.
+I kept it in the case.
+This is very disappointing.
+What do I do now?
+Thanks & regards,",False,0
+TK-251038,Connectivity,email,"hi, i bought the pulse buds on 18/10. it connects for a second and then vanishes from the device list. i tried on another phone. i am losing patience. waiting for your reply. thank you, imran trivedi",True,1
+TK-254401,Returns & Refunds,email,where is the money for the return,False,0
+TK-248359,Connectivity,chat,"it goes silent for a second every few minutes & comes back, please call me on my registered number",False,0
